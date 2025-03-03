@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skyline.github.com/aurelsid/aurelsid" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=aurelsid&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)graph" />
 </div>
 
 ###
