@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
- <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=aurelsid&repo=aurelsid&countColorcountColor&countColor=%237B1E7B"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelsid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 ###
