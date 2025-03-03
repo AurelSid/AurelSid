@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)graph" />
+ <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 </div>
 
 ###
